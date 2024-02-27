@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shadowmec
-- 👀 I’m interested in urmom's face
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on apps
+- 👀 I’m interested in python apps/games
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on some python GUI stuff
 - 📫 How to reach me: you can't
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I started coding when I was 8
